@@ -1,7 +1,17 @@
 # quiz-maker-api
 A simple sample project that I used as back-end to practice with front-end that I learn.
 
-This project already connected to database it has connection string in **appsetting.json**, you can clone it and customize it to learn more about **.Net Core**.
-I will not say this is a good archecture project but I hope it will help you to understand more about the use of OOP concept and cleaner code.
+I have done basic things for this project such as:
+  - Database connection, along with commit transaction
+  - Basic JWT authentication
+  - Basic clean architecture
+  - Some basic CRUD operation
+  - Basic dependency injection and HTTP context accesing
+  - Swagger configuration
+  - Error handling middleware so you can handle exception easier and more effecient
+    with different type of exception if you want to
 
-Cheer
+I will not say this project is the best approach as it is not my intention, but I hope it will inspire someone 
+to learn more and find better approach.
+
+Cheer :)
